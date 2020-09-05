@@ -1,7 +1,7 @@
 # Mailserver
 Database is provided within the folder named 10am.sql
 
-Import the databse and run the project.
+Import the database and run the project.
 
 You can change the attachment limit by modifying php.ini file.
 
